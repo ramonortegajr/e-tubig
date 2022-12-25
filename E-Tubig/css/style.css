@@ -1,0 +1,76 @@
+* {
+    margin:none;
+}
+
+#text{
+    color:#0061BB;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 60px;
+}
+
+.card {
+    width: 96%;
+    margin-left: 2%;
+    box-shadow: 0 1px 8px 0 rgba(0, 0, 0, 0.2), 0 1px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-top: -15px;
+}
+
+.card2 {
+    width: 30%;
+    margin-left: 2%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.logo {
+    margin-top: -20%;
+}
+.navbar {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.m-3 p{
+    color: darkgrey;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 15px;
+    padding: 20px;
+}
+
+.m-3 .info {
+    font-size: 15px;
+}
+
+.clogin {
+    width: 30%;
+    margin-left: 2%;
+    box-shadow: 0 1px 8px 0 rgba(0, 0, 0, 0.2), 0 1px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-top: 100px;
+    padding: 5px;
+    margin-left: 35%;
+    
+}
+.text-control {
+    margin-left: 20px;
+}
+hr {
+    width: 100%;
+    color:whitesmoke;
+}
+.btn-signin {
+    margin-left: 1%;
+    width: 530%;
+    padding: 10px;
+}
+.order-now btn{
+    width: 20%;
+} 
+div .btn {
+    margin-left: 20px;
+    width: 15%;
+    height: 50px;
+}
+.signup {
+    margin-left: 16%;
+    margin-top: -50px;
+    width: 96%;
+}
